@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dsp/未命名.md",
+                "file": "DSP/Lecture1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "未命名"
+              "title": "Lecture1"
             }
           }
         ],
@@ -127,12 +127,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dsp/未命名.md",
+                "file": "DSP/Lecture1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "未命名 的出链列表"
+              "title": "Lecture1 的出链列表"
             }
           },
           {
@@ -170,13 +170,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dsp/未命名.md",
+                "file": "DSP/Lecture1.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "未命名 的大纲"
+              "title": "Lecture1 的大纲"
             }
           }
         ],
@@ -201,8 +201,8 @@
   "active": "71dfab06f17f0ff5",
   "lastOpenFiles": [
     "operating system/Lecture 1/Lecture 1 绪论笔记.md",
-    "Dsp/未命名.md",
-    "Dsp",
+    "DSP/Lecture1.md",
+    "DSP",
     "dsp",
     "discrete mathmatics",
     "DSP",
