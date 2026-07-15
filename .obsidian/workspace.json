@@ -112,11 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "operating system/Lecture 1/Lecture 1 绪论笔记.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "出链"
+              "title": "Lecture 1 绪论笔记 的出链列表"
             }
           },
           {
@@ -154,20 +155,21 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "operating system/Lecture 1/Lecture 1 绪论笔记.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "大纲"
+              "title": "Lecture 1 绪论笔记 的大纲"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -183,6 +185,7 @@
   },
   "active": "71dfab06f17f0ff5",
   "lastOpenFiles": [
+    "dsp",
     "discrete mathmatics",
     "DSP",
     "operating system/Lecture 1/Lecture 1 绪论笔记.md",
