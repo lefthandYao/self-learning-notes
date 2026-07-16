@@ -194,13 +194,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "control system I/未命名.md",
+                "file": "control system I/lecture 1 introduction, signal and system.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "未命名 的大纲"
+              "title": "lecture 1 introduction, signal and system 的大纲"
             }
           }
         ],
@@ -224,13 +224,13 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "71dfab06f17f0ff5",
+  "active": "ef08f6d077dc0078",
   "lastOpenFiles": [
-    "control system I/lecture 1 introduction, signal and system.md",
-    "control system I/未命名.md",
     "DSP/Lecture 1.md",
-    "control system I",
+    "control system I/lecture 1 introduction, signal and system.md",
     "operating system/Lecture 1/Lecture 1 绪论笔记.md",
+    "control system I/未命名.md",
+    "control system I",
     "DSP",
     "dsp",
     "discrete mathmatics",

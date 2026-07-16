@@ -40,4 +40,4 @@ todays objective
 	2. distinguish systems
 
 static systems
-	
+	![image.png](https://fastly.jsdelivr.net/gh/lefthandYao/my-image-bed@main/pc/20260716175304217.png)
