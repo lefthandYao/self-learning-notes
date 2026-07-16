@@ -13,4 +13,16 @@ our main objectives:
 		2. understand how the inputs effect the output
 		3. analyze the response of these systems and address stability and performance of the system
 	3. synthesis
-		1. figure out how to design a system that fit in the expectation most 
+		1. figure out how to design a system that we expect
+
+content:
+	1. introduction, signal and system
+	2. modeling, linearization
+	3. time response, stability
+	4. diagonalization, modal coordinates
+	5. transfer functions 1: definition and properties
+	6. transfer functions 2: poles and zeros
+	7. analysis of feedback systems: internal stability, root locus
+	8. frequency response
+	9. analysis of feedback system2: the nyquist condition
+	10. specifications for feedback 
