@@ -5,7 +5,8 @@ this course focus on dynamic control systems
 our main objectives:
 	1. modeling
 		1. use mathmatical tools to represent a daynamic control system
-		2. we focus on system that can be modeled by ordinary differential equation (ODEs)
+		2. we focus on system that can be modeled by ordinary differential equation (ODEs) -- which is LTI
+		3. and we focus on single input and single output system
 	2. analysis
 		1. understand the basic characterstics of a system (stability, controllabllity, obseravability)
 		2. understand how the inputs effect the output
