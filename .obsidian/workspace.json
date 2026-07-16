@@ -102,8 +102,19 @@
               "icon": "lucide-bookmark",
               "title": "书签"
             }
+          },
+          {
+            "id": "83037d5798bf54ea",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {},
+              "icon": "clock",
+              "title": "Recent files"
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -213,7 +224,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ef08f6d077dc0078",
+  "active": "71dfab06f17f0ff5",
   "lastOpenFiles": [
     "DSP/Lecture 1.md",
     "control system I/lecture 1 introduction, signal and system.md",
