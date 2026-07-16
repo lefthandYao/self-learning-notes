@@ -113,8 +113,7 @@
               "title": "Recent files"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -195,13 +194,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "control system I/lecture 1 introduction, signal and system.md",
+                "file": "control system I/未命名.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "lecture 1 introduction, signal and system 的大纲"
+              "title": "未命名 的大纲"
             }
           }
         ],
@@ -221,13 +220,15 @@
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
       "bases:新建数据库": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "omnisearch:Omnisearch": false
     }
   },
   "active": "71dfab06f17f0ff5",
   "lastOpenFiles": [
-    "DSP/Lecture 1.md",
     "control system I/lecture 1 introduction, signal and system.md",
+    "control system I/未命名.md",
+    "DSP/Lecture 1.md",
     "control system I",
     "operating system/Lecture 1/Lecture 1 绪论笔记.md",
     "DSP",

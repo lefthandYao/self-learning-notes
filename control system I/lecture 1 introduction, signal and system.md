@@ -38,3 +38,6 @@ synthesis
 todays objective
 	1. understand the control system in terms of input and output signals
 	2. distinguish systems
+
+static systems
+	
