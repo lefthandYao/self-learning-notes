@@ -54,6 +54,7 @@ causality
 	![](https://fastly.jsdelivr.net/gh/lefthandYao/my-image-bed@main/pc/20260718100344810.png)
 	如果现在得output只和过去的input有关 -> causal
 	任何物理系统都是因果系统
+	Pt是把信号截断到t的算子
 
 真实系统未必是线性的
 可以通过一些手段将非线性系统用线性系统进行近似

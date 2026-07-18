@@ -26,9 +26,15 @@ Basic control architectures: Feedback(反馈控制)
 	![image.png](https://fastly.jsdelivr.net/gh/lefthandYao/my-image-bed@main/pc/20260718104409754.png)
 	given error: y-r, and we want to design C that can make the y closer to r
 	![image.png](https://fastly.jsdelivr.net/gh/lefthandYao/my-image-bed@main/pc/20260718105103112.png)
+	我们通过传感器来得到误差（其实是直接得到y）
 	在循环稳定的前提下，我们希望C的增益尽可能大
 	**does not require a precise knowledge of P** - robust to modeling errors
 	**can stablize unstable systems**, but can also make stable systems unstable
 	we need error to develop in oder to figure out apporpriate control
 	u 需要被计算出来（不过应该是通过系统C得到的）
 
+Basic control architectures: two degrees of freedom
+	![image.png](https://fastly.jsdelivr.net/gh/lefthandYao/my-image-bed@main/pc/20260718105741844.png)
+	我们经常忽略反馈调节
+
+System ST
