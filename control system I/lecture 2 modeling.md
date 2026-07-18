@@ -50,9 +50,12 @@ Dimension of a system
 LTI State-space model
 	four matrix to represent 
 	![image.png](https://fastly.jsdelivr.net/gh/lefthandYao/my-image-bed@main/pc/20260718111502279.png)
-	
-
-
+	x(t) : 状态向量（储存系统的全部记忆，可能包含速度，水位高度，电压，电流等等表示状态的量）（状态向量的维数就是系统维数）
+	u(t) : 外部输入
+	y(t) : 系统输出（我们要观测的量）
+	方程1：储存系统的变化由外部输入和现有储存状态决定
+	方程2： 输出由储存系统和外部输入决定
+	所有高阶导数都可以用这四个矩阵表示
 
 
 
