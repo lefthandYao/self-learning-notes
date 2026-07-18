@@ -19,9 +19,16 @@ Basic control architectures: Feed-Forward(前馈控制)
 	attempt to compute what should be the control input u that would make y=r;
 	目的在于找到F使得输入什么，受控系统就能输出什么或者保持什么
 	Essentially, F should be an inverse of P
-	we have to model P properly, the outcome sensitive to modeling errors
-	we cannot alter the dynamics of P, cannot make unstable system stable.
+	**we have to model P properly**, the outcome sensitive to modeling errors
+	we cannot alter the dynamics of P, **cannot make unstable system stable.**
 
 Basic control architectures: Feedback(反馈控制)
 	![image.png](https://fastly.jsdelivr.net/gh/lefthandYao/my-image-bed@main/pc/20260718104409754.png)
 	given error: y-r, and we want to design C that can make the y closer to r
+	![image.png](https://fastly.jsdelivr.net/gh/lefthandYao/my-image-bed@main/pc/20260718105103112.png)
+	在循环稳定的前提下，我们希望C的增益尽可能大
+	**does not require a precise knowledge of P** - robust to modeling errors
+	**can stablize unstable systems**, but can also make stable systems unstable
+	we need error to develop in oder to figure out apporpriate control
+	u 需要被计算出来（不过应该是通过系统C得到的）
+
