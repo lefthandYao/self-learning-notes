@@ -37,4 +37,25 @@ Basic control architectures: two degrees of freedom
 	![image.png](https://fastly.jsdelivr.net/gh/lefthandYao/my-image-bed@main/pc/20260718105741844.png)
 	我们经常忽略反馈调节
 
-System ST
+System State(只有动态系统有系统状态的概念)
+	系统过去所有的可以用于预测未来输出结结果的信息
+		系统参数：水箱的横截面积，水管的粗细
+		系统状态：水箱过去的加水量，水位
+
+Dimension of a system
+	状态维度：最少需要几个独立状态变量，就能完整记录系统全部“历史记忆”
+	对于静态系统：0维度
+	动态系统：看有几个需要被调控的变量
+
+LTI State-space model
+	four matrix to represent 
+	![image.png](https://fastly.jsdelivr.net/gh/lefthandYao/my-image-bed@main/pc/20260718111502279.png)
+	
+
+
+
+
+
+
+
+ 
