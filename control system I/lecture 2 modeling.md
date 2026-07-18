@@ -67,6 +67,7 @@ LTI State-space model
 Nonlinear 
 	现实中大部分系统都是非线性的
 	构建LTI近似系统
+	我们需要找到平衡点
 	
 
  
