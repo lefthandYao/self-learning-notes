@@ -55,5 +55,16 @@ causality
 	如果现在得output只和过去的input有关 -> causal
 	任何物理系统都是因果系统
 
-
+真实系统未必是线性的
 可以通过一些手段将非线性系统用线性系统进行近似
+
+interconnections
+	serial interconnection
+	串联
+	parrallel interconnection
+	并联
+	(negative) feedback interconnection
+	![image.png](https://fastly.jsdelivr.net/gh/lefthandYao/my-image-bed@main/pc/20260718100855048.png)
+	![image.png](https://fastly.jsdelivr.net/gh/lefthandYao/my-image-bed@main/pc/20260718100905590.png)
+	此处1和2应互换 
+ 
