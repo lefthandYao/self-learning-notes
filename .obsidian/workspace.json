@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "control system I/lecture 1 introduction, signal and system.md",
+                "file": "control system I/lecture 2 modeling.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "lecture 1 introduction, signal and system"
+              "title": "lecture 2 modeling"
             }
           }
         ],
@@ -255,8 +255,8 @@
   },
   "active": "e299147bf65f87ec",
   "lastOpenFiles": [
-    "control system I/lecture 2 modeling.md",
     "control system I/lecture 1 introduction, signal and system.md",
+    "control system I/lecture 2 modeling.md",
     "DSP/Lecture 1.md",
     "operating system/Lecture 1 绪论笔记.md",
     "control system I/Drawing 2026-07-16 18.04.05.excalidraw.md",
