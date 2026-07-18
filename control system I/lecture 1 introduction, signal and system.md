@@ -41,3 +41,19 @@ todays objective
 
 static systems
 	![image.png](https://fastly.jsdelivr.net/gh/lefthandYao/my-image-bed@main/pc/20260716175304217.png)
+	the property of the system only depends on current time's input
+
+Time invarient 
+	![image.png](https://fastly.jsdelivr.net/gh/lefthandYao/my-image-bed@main/pc/20260718100040178.png)
+	给一个delay后，系统特性不变
+
+linearity
+	![image.png](https://fastly.jsdelivr.net/gh/lefthandYao/my-image-bed@main/pc/20260718100128616.png)
+
+causality
+	![](https://fastly.jsdelivr.net/gh/lefthandYao/my-image-bed@main/pc/20260718100344810.png)
+	如果现在得output只和过去的input有关 -> causal
+	任何物理系统都是因果系统
+
+
+可以通过一些手段将非线性系统用线性系统进行近似
