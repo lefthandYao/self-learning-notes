@@ -35,7 +35,8 @@ Basic control architectures: Feedback(反馈控制)
 
 Basic control architectures: two degrees of freedom
 	![image.png](https://fastly.jsdelivr.net/gh/lefthandYao/my-image-bed@main/pc/20260718105741844.png)
-	我们经常忽略反馈调节
+	我们经常忽略前馈调节导致相应偏慢
+	可以结合前馈和反馈
 
 System State(只有动态系统有系统状态的概念)
 	系统过去所有的可以用于预测未来输出结结果的信息
@@ -72,9 +73,15 @@ Nonlinear
 	我们需要找到平衡点（稳态状态向量，稳态控制输入）
 	![image.png](https://fastly.jsdelivr.net/gh/lefthandYao/my-image-bed@main/pc/20260718114822543.png)
 	 example：
-	 ![image.png](https://fastly.jsdelivr.net/gh/lefthandYao/my-image-bed@main/pc/20260719122100606.png)
+	 ![image.png](https://fastly.jsdelivr.net/gh/lefthandYao/my-image-bed@main/pc/20260719122100606.png)![376](https://fastly.jsdelivr.net/gh/lefthandYao/my-image-bed@main/pc/20260719122729531.png)
 	平衡点： x1和x2的一阶导数均为0
 		一个系统可能有多个平衡点
 		求A的全部特征值
 			若所有特征值实部均<0 ——> 稳定
 			否则不稳定
+	第一步：建立非线性原始系统
+	第二步：求解平衡点
+	第三步：把x用xe+δx放入非线性系统方程
+	第四步：整理出ABCD
+	第五步：利用A判断是否稳定
+	
