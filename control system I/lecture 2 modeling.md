@@ -69,3 +69,4 @@ Nonlinear
 	构建LTI近似系统
 	我们需要找到平衡点
 	![image.png](https://fastly.jsdelivr.net/gh/lefthandYao/my-image-bed@main/pc/20260718114822543.png)
+	 
