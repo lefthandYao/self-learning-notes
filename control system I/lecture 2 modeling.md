@@ -68,6 +68,13 @@ Nonlinear
 	现实中大部分系统都是非线性的
 	构建LTI近似系统
 	这种近似方法只针对大直流信号+微小扰动（交流）
-	我们需要找到平衡点
+		本质是因为泰勒展开忽略高阶项的前提条件是
+	我们需要找到平衡点（稳态状态向量，稳态控制输入）
 	![image.png](https://fastly.jsdelivr.net/gh/lefthandYao/my-image-bed@main/pc/20260718114822543.png)
-	 
+	 example：
+	 ![image.png](https://fastly.jsdelivr.net/gh/lefthandYao/my-image-bed@main/pc/20260719122100606.png)
+	平衡点： x1和x2的一阶导数均为0
+		一个系统可能有多个平衡点
+		求A的全部特征值
+			若所有特征值实部均<0 ——> 稳定
+			否则不稳定
