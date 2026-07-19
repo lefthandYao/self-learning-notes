@@ -67,6 +67,7 @@ LTI State-space model
 Nonlinear 
 	现实中大部分系统都是非线性的
 	构建LTI近似系统
+	这种近似方法只针对大直流信号+微小扰动（交流）
 	我们需要找到平衡点
 	![image.png](https://fastly.jsdelivr.net/gh/lefthandYao/my-image-bed@main/pc/20260718114822543.png)
 	 
