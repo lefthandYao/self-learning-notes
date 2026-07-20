@@ -320,13 +320,14 @@
       "bases:新建数据库": false,
       "obsidian-git:Open Git source control": false,
       "omnisearch:Omnisearch": false,
-      "obsidian-excalidraw-plugin:新建绘图文件": false
+      "obsidian-excalidraw-plugin:新建绘图文件": false,
+      "ace-code-editor:打开css片段管理器": false
     }
   },
   "active": "5ea3dd655c3d18ee",
   "lastOpenFiles": [
-    "algorithm programming/004. 选择、冒泡、插入排序.md",
     "algorithm programming/003. 二进制和位运算.md",
+    "algorithm programming/004. 选择、冒泡、插入排序.md",
     "algorithm programming",
     "operating system/Lecture 2 应用视角的操作系统.md",
     "DSP/Lecture 1.md",
