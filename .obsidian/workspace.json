@@ -295,15 +295,16 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "8a20a3fa8517dd3f",
+  "active": "71dfab06f17f0ff5",
   "lastOpenFiles": [
-    "operating system/Lecture 1 绪论笔记.md",
+    "discrete mathematics",
+    "control system I/未命名.md",
     "operating system/Lecture 2 应用视角的操作系统.md",
+    "operating system/Lecture 1 绪论笔记.md",
     "operating system/未命名.md",
     "DSP/Lecture 1.md",
     "control system I/lecture 2 modeling.md",
     "control system I/未命名 1.md",
-    "control system I/未命名.md",
     "control system I/lecture 1 introduction, signal and system.md",
     "control system I/Drawing 2026-07-16 18.04.05.excalidraw.md",
     "Excalidraw/Drawing 2026-07-16 18.03.33.excalidraw.md",
@@ -311,7 +312,7 @@
     "control system I",
     "DSP",
     "dsp",
-    "discrete mathmatics",
+    "discrete mathematics",
     "DSP",
     "operating system/Lecture 1",
     "operating system"
