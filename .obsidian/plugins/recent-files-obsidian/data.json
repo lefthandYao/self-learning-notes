@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "lecture 3 Time Response",
+      "path": "control system I/lecture 3 Time Response.md"
+    },
+    {
+      "basename": "lecture 2 modeling",
+      "path": "control system I/lecture 2 modeling.md"
+    },
+    {
       "basename": "003. 二进制和位运算",
       "path": "algorithm programming/003. 二进制和位运算.md"
     },
@@ -19,10 +27,6 @@
     {
       "basename": "Lecture 1 绪论笔记",
       "path": "operating system/Lecture 1 绪论笔记.md"
-    },
-    {
-      "basename": "lecture 2 modeling",
-      "path": "control system I/lecture 2 modeling.md"
     },
     {
       "basename": "lecture 1 introduction, signal and system",
