@@ -9,6 +9,7 @@ system example
 ![image.png](https://fastly.jsdelivr.net/gh/lefthandYao/my-image-bed@main/pc/20260723171538416.png)
 线性方程的通解： x(t) = initial condition response(零输入相应) + forced response(零状态相应)
 	initial response
-		
+		代表系统的初始状态x(t0)，与外部输入u无关
 	forced response
+		系统没有储能的情况下，纯粹由外部输入u产生的运动
 state transition function(微分方程的解)
