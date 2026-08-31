@@ -24,8 +24,10 @@ state transition function、
 x(t)是initial response：
 ![image.png|435](https://fastly.jsdelivr.net/gh/lefthandYao/my-image-bed@main/pc/20260831091505856.png)
 forced response是u(t)和状态转移函数做卷积
-![image.png](https://fastly.jsdelivr.net/gh/lefthandYao/my-image-bed@main/pc/20260831091733429.png)
+![image.png|489](https://fastly.jsdelivr.net/gh/lefthandYao/my-image-bed@main/pc/20260831091733429.png)
 相当于信号与系统里面学过的h(t)impulse response
 
-time constant
-用于衡量
+time constant（τ）
+用于衡量衰减速度
+t=0时的切线与x轴的交点（本题为1/2）
+![image.png|356](https://fastly.jsdelivr.net/gh/lefthandYao/my-image-bed@main/pc/20260831092749295.png)
