@@ -33,9 +33,14 @@ t=0时的切线与x轴的交点（本题为1/2）
 ![image.png|356](https://fastly.jsdelivr.net/gh/lefthandYao/my-image-bed@main/pc/20260831092749295.png)
 
 for higher-order（matrix） case
-x(t)变为一个xiang
+x(t)变为一个向量
 a由常数变成矩阵
 ![image.png|390](https://fastly.jsdelivr.net/gh/lefthandYao/my-image-bed@main/pc/20260831095435027.png)
-![image.png](https://fastly.jsdelivr.net/gh/lefthandYao/my-image-bed@main/pc/20260831095459161.png)
+![image.png|333](https://fastly.jsdelivr.net/gh/lefthandYao/my-image-bed@main/pc/20260831095459161.png)
+
+如何求解expA
+如果A是可对角化的：
+![image.png|479](https://fastly.jsdelivr.net/gh/lefthandYao/my-image-bed@main/pc/20260831100452719.png)
+![image.png|249](https://fastly.jsdelivr.net/gh/lefthandYao/my-image-bed@main/pc/20260831100536053.png)
 
 
