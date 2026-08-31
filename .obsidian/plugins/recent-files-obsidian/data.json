@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "003. 二进制和位运算",
+      "path": "algorithm programming/003. 二进制和位运算.md"
+    },
+    {
+      "basename": "004. 选择、冒泡、插入排序",
+      "path": "algorithm programming/004. 选择、冒泡、插入排序.md"
+    },
+    {
       "basename": "Lecture 1",
       "path": "DSP/Lecture 1.md"
     },
@@ -17,20 +25,12 @@
       "path": "control system I/lecture 2 modeling.md"
     },
     {
-      "basename": "004. 选择、冒泡、插入排序",
-      "path": "algorithm programming/004. 选择、冒泡、插入排序.md"
-    },
-    {
       "basename": "Lecture 2 应用视角的操作系统",
       "path": "operating system/Lecture 2 应用视角的操作系统.md"
     },
     {
       "basename": "Lecture 1 绪论笔记",
       "path": "operating system/Lecture 1 绪论笔记.md"
-    },
-    {
-      "basename": "003. 二进制和位运算",
-      "path": "algorithm programming/003. 二进制和位运算.md"
     },
     {
       "basename": "未命名",
