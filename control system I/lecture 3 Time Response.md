@@ -43,9 +43,11 @@ a由常数变成矩阵
 ![image.png|479](https://fastly.jsdelivr.net/gh/lefthandYao/my-image-bed@main/pc/20260831100452719.png)
 ![image.png|249](https://fastly.jsdelivr.net/gh/lefthandYao/my-image-bed@main/pc/20260831100536053.png)
 
-any matrix can be reduced to diagonal or Jordan form
+any matrix can be reduced to diagonal（first two） or Jordan form（the third one)
 For any LTI system, the total response is always a linear combination of:
 ![image.png](https://fastly.jsdelivr.net/gh/lefthandYao/my-image-bed@main/pc/20260831101557900.png)
 
-
+Qualititive behavior of a LTI system
+	Lyapunov stable
+	asymp
 
