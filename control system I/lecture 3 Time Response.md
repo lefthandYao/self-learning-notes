@@ -8,7 +8,7 @@ objectives
 system example
 ![image.png](https://fastly.jsdelivr.net/gh/lefthandYao/my-image-bed@main/pc/20260723171538416.png)
 利用系统的linearity，把U拆解成Upast和Ufuture
-
+![image.png](https://fastly.jsdelivr.net/gh/lefthandYao/my-image-bed@main/pc/20260831085713028.png)
 
 线性方程的通解： x(t) = initial condition response(零输入相应) + forced response(零状态相应)
 	initial response
