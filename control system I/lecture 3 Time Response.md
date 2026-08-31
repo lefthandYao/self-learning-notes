@@ -12,9 +12,18 @@ system example
 线性方程的通解： x(t) = initial condition response(零输入相应) + forced response(零状态相应)
 	initial response（homogeneous response)
 		代表系统的初始状态x(t0)，与外部输入u无关
+		Upast累积决定了initial response
 		![image.png](https://fastly.jsdelivr.net/gh/lefthandYao/my-image-bed@main/pc/20260831090048298.png)
+		u(t)=0, x(t0)=x0的条件下解出的x(t)就是initial response
 	forced response
 		系统没有储能的情况下，纯粹由外部输入u产生的运动
+		Ufuture决定了forced response
 		![image.png](https://fastly.jsdelivr.net/gh/lefthandYao/my-image-bed@main/pc/20260831090103188.png)
-state transition function(微分方程的解)
+		假设x(t0) = 0求解出的x(t)就是forced response
+state transition function、
+x(t)是initial response：
+![image.png|435](https://fastly.jsdelivr.net/gh/lefthandYao/my-image-bed@main/pc/20260831091505856.png)
+forced response是u(t)和状态转移函数做卷积
+![image.png](https://fastly.jsdelivr.net/gh/lefthandYao/my-image-bed@main/pc/20260831091733429.png)
+
 
