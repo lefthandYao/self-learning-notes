@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Lecture 1",
+      "path": "DSP/Lecture 1.md"
+    },
+    {
       "basename": "lecture 3 Time Response",
       "path": "control system I/lecture 3 Time Response.md"
     },
@@ -23,10 +27,6 @@
     {
       "basename": "Lecture 1 绪论笔记",
       "path": "operating system/Lecture 1 绪论笔记.md"
-    },
-    {
-      "basename": "Lecture 1",
-      "path": "DSP/Lecture 1.md"
     },
     {
       "basename": "003. 二进制和位运算",
