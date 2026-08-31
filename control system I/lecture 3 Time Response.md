@@ -42,12 +42,26 @@ a由常数变成矩阵
 如果A是可对角化的：
 ![image.png|479](https://fastly.jsdelivr.net/gh/lefthandYao/my-image-bed@main/pc/20260831100452719.png)
 ![image.png|249](https://fastly.jsdelivr.net/gh/lefthandYao/my-image-bed@main/pc/20260831100536053.png)
+如果A是不可对角化的：
+![image.png](https://fastly.jsdelivr.net/gh/lefthandYao/my-image-bed@main/pc/20260831103549410.png)
 
 any matrix can be reduced to diagonal（first two） or Jordan form（the third one)
 For any LTI system, the total response is always a linear combination of:
 ![image.png](https://fastly.jsdelivr.net/gh/lefthandYao/my-image-bed@main/pc/20260831101557900.png)
 
-Qualititive behavior of a LTI system
-	Lyapunov stable
-	asymp
+Qualititive behavior of a LTI system(3 types of stability)
+	Lyapunov stablility
+	![image.png](https://fastly.jsdelivr.net/gh/lefthandYao/my-image-bed@main/pc/20260831103120025.png)
+	asymptotically stablility
+	![image.png](https://fastly.jsdelivr.net/gh/lefthandYao/my-image-bed@main/pc/20260831103137066.png)
+	BIBO stability
+	![image.png](https://fastly.jsdelivr.net/gh/lefthandYao/my-image-bed@main/pc/20260831103148800.png)
+judge stability by inspecting A
 
+if A is diagonalizable
+![image.png](https://fastly.jsdelivr.net/gh/lefthandYao/my-image-bed@main/pc/20260831103400334.png)
+
+if A is not diagonalizable
+![image.png](https://fastly.jsdelivr.net/gh/lefthandYao/my-image-bed@main/pc/20260831103425570.png)
+
+![image.png](https://fastly.jsdelivr.net/gh/lefthandYao/my-image-bed@main/pc/20260831103441365.png)
