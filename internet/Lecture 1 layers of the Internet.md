@@ -5,10 +5,13 @@ the internet is federated
 	there is no single operator
 
 challenges
+	federated
 	scalable
 	constantly evolving
 	diverse(all users are different)
 	asynchronous
-		there is a physical limit
-	
+		there is a physical limit(speed of light)
+	internet must handle failures at scale
+
+
 
