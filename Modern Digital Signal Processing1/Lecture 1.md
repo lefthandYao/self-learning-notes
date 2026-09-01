@@ -53,4 +53,17 @@ differences between mdsp1 and mdsp2
 		stationary
 		Gaussian
 	2: 1980's-Now
-		 
+		Non-linear
+		Non-orthogonal
+		Non-stationary
+		Non-Gaussian
+
+Review of Probability Theory
+	Uncertainty -> statistical experiment ->sample point
+	->sample space -> possibility（可能性）
+		知识的局限性，带来不确定性
+		不确定是一种对自己无知的妥协
+		所有可能出现的结果构成了sample space
+		possibility是先验的，对每一个sample point而言的
+		probability是对sample space里面的子集而言的
+	
