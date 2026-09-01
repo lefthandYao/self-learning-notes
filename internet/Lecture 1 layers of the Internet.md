@@ -85,3 +85,4 @@ Internet：
 ![image.png](https://fastly.jsdelivr.net/gh/lefthandYao/my-image-bed@main/pc/20260901193425971.png)
 	routers don't support reliable delivery
 	routers don't care abot application data
+![image.png](https://fastly.jsdelivr.net/gh/lefthandYao/my-image-bed@main/pc/20260901193856047.png)
