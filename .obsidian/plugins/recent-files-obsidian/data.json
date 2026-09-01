@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Lecture 1",
+      "path": "DSP/Lecture 1.md"
+    },
+    {
       "basename": "Lecture 1 layers of the Internet",
       "path": "internet/Lecture 1 layers of the Internet.md"
     },
@@ -15,10 +19,6 @@
     {
       "basename": "004. 选择、冒泡、插入排序",
       "path": "algorithm programming/004. 选择、冒泡、插入排序.md"
-    },
-    {
-      "basename": "Lecture 1",
-      "path": "DSP/Lecture 1.md"
     },
     {
       "basename": "lecture 3 Time Response",
