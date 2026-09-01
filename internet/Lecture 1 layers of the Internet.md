@@ -36,7 +36,21 @@ Internet: Network of networks
 	圆形：End hosts
 	方形：Switches（routers）
 
+![image.png](https://fastly.jsdelivr.net/gh/lefthandYao/my-image-bed@main/pc/20260901185959432.png)
+routers can communicate in different ways
 
+layers 3 offers best-effort
+	packets are limited in size
+	packets could get lost reorderd, corrupted
+	network wont tell if failed
+	no garantee
+so, 3 layers is not enough
 
-
-
+Building layars 4-7
+	realiablity(transport layer)
+		re-sending lost packets
+		splits up and reassembles large data
+		flows(connections) instead of packets
+			stop thinking about individual packages
+	layer 5 and 6 are obsolete
+	application()
