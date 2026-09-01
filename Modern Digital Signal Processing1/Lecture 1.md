@@ -113,4 +113,14 @@ continue random variables：
 		无记忆性：
 		![image.png](https://fastly.jsdelivr.net/gh/lefthandYao/my-image-bed@main/pc/20260901161913260.png)
 	![image.png](https://fastly.jsdelivr.net/gh/lefthandYao/my-image-bed@main/pc/20260901162020510.png)
+	高斯分布（正态分布）
+	![image.png|142](https://fastly.jsdelivr.net/gh/lefthandYao/my-image-bed@main/pc/20260901162207452.png)
+	![image.png](https://fastly.jsdelivr.net/gh/lefthandYao/my-image-bed@main/pc/20260901162238793.png)
+	中心极限定理：
+	![image.png](https://fastly.jsdelivr.net/gh/lefthandYao/my-image-bed@main/pc/20260901162301263.png)
 
+期望Expectation
+![image.png|258](https://fastly.jsdelivr.net/gh/lefthandYao/my-image-bed@main/pc/20260901162504615.png)
+![image.png|166](https://fastly.jsdelivr.net/gh/lefthandYao/my-image-bed@main/pc/20260901162524213.png)
+	线性性（两变量间无需独立）
+	![image.png|187](https://fastly.jsdelivr.net/gh/lefthandYao/my-image-bed@main/pc/20260901162752379.png)
