@@ -53,4 +53,16 @@ Building layars 4-7
 		flows(connections) instead of packets
 			stop thinking about individual packages
 	layer 5 and 6 are obsolete
-	application()
+	application layer
+		design build different services
+
+Headers
+	packets needs extra metadate, to tell what to do with the packet
+	contains:
+		Destination address
+		Source address
+		payload: the actual data in the packet
+	![image.png](https://fastly.jsdelivr.net/gh/lefthandYao/my-image-bed@main/pc/20260901191419114.png)
+	everybody needs to agree on the format of the header
+
+
