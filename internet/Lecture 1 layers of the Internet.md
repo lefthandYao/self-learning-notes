@@ -77,3 +77,11 @@ Internet:
 
 Routers
 Analogy:
+	post office needs routers
+		firstly unwrapped the outer header
+		judge whether can connect to mail room
+		if not, wrapped the outer hearder to the next post office
+Internet：
+![image.png](https://fastly.jsdelivr.net/gh/lefthandYao/my-image-bed@main/pc/20260901193425971.png)
+	routers don't support reliable delivery
+	routers don't care abot application data
