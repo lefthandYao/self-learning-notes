@@ -24,15 +24,18 @@ Layers
 		voltages on electrical wire
 		light signals on optical fiber
 		wireless radio waves
-	local networks: connect everyone in local town
+	local networks（link layer）: connect everyone in local town
 		link between machines
 		machines exchange packets
-	connecting local networks
+	connecting local networks（Internet layer）
 		set post office
 		![image.png|210](https://fastly.jsdelivr.net/gh/lefthandYao/my-image-bed@main/pc/20260901184359979.png)
 
 Internet: Network of networks
 	![image.png](https://fastly.jsdelivr.net/gh/lefthandYao/my-image-bed@main/pc/20260901184520532.png)
+	圆形：End hosts
+	方形：Switches（routers）
+
 
 
 
