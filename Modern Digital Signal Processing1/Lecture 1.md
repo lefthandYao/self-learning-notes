@@ -64,6 +64,17 @@ Review of Probability Theory
 		知识的局限性，带来不确定性
 		不确定是一种对自己无知的妥协
 		所有可能出现的结果构成了sample space
-		possibility是先验的，对每一个sample point而言的
+		possibility是对每一个sample point而言的
 		probability是对sample space里面的子集而言的
-	
+	概率与统计
+		是两门完全不同的学科，只有符号语言有相同的部分
+		概率是从模型到决策
+		统计是从数据到模型
+		大数据是从数据直接到决策
+
+样本空间很重要（随机到底怎么随机）Bertrand Paradox
+
+随机变量的概念
+	随机变量是一个函数：从样本空间到实数轴
+		目的是量化样本空间
+	随机变量没有不确定性，所有不确定性都只ting'l
