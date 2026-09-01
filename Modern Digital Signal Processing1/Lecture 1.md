@@ -84,15 +84,24 @@ Review of Probability Theory
 随机变量没有不确定性，所有不确定性都只停留在样本点出现与否
 
 discrete random variables：
+![image.png](https://fastly.jsdelivr.net/gh/lefthandYao/my-image-bed@main/pc/20260901160056371.png)
 	![image.png](https://fastly.jsdelivr.net/gh/lefthandYao/my-image-bed@main/pc/20260901155316209.png)
-	随机变量满足...分布，以下zh
-	伯努利分布：
+	随机变量满足...分布，以下这些经典分布，能体现自然界中的广泛规律
+
+离散型概率分布：
+伯努利分布：
 	![image.png](https://fastly.jsdelivr.net/gh/lefthandYao/my-image-bed@main/pc/20260901155719272.png)
 	![image.png](https://fastly.jsdelivr.net/gh/lefthandYao/my-image-bed@main/pc/20260901155641885.png)
 	二项分布：
-	
+	![image.png](https://fastly.jsdelivr.net/gh/lefthandYao/my-image-bed@main/pc/20260901160204238.png)
+	![image.png](https://fastly.jsdelivr.net/gh/lefthandYao/my-image-bed@main/pc/20260901160222969.png)
+	泊松分布：
+	![image.png](https://fastly.jsdelivr.net/gh/lefthandYao/my-image-bed@main/pc/20260901160552428.png)
+	![image.png](https://fastly.jsdelivr.net/gh/lefthandYao/my-image-bed@main/pc/20260901160605205.png)
+
 
 continue random variables：
+![image.png](https://fastly.jsdelivr.net/gh/lefthandYao/my-image-bed@main/pc/20260901160127035.png)
 概率密度
 	![image.png](https://fastly.jsdelivr.net/gh/lefthandYao/my-image-bed@main/pc/20260901155337545.png)
 
