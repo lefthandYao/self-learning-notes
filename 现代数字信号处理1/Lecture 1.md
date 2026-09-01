@@ -7,3 +7,5 @@ prerequisite：
 textbook：
 	S.M.Kay Fundamental of Statistical Signal Processing 
 	S.Haykin Adaptive Filter Theory 5th Edition
+	P.Stoica Spectral Analysis of Signal
+
