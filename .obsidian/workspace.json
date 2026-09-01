@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "现代数字信号处理1/Lecture 1.md",
+                "file": "Modern Digital Signal Processing1/Lecture 1.md",
                 "mode": "source",
                 "source": false
               },
@@ -224,10 +224,10 @@
       "ace-code-editor:打开css片段管理器": false
     }
   },
-  "active": "d2b8a7340826b6c5",
+  "active": "71dfab06f17f0ff5",
   "lastOpenFiles": [
     "algorithm programming/003. 二进制和位运算.md",
-    "现代数字信号处理1/Lecture 1.md",
+    "Modern Digital Signal Processing1/Lecture 1.md",
     "internet/Lecture 1 layers of the Internet.md",
     "computer architecture/未命名.md",
     "internet",
@@ -248,7 +248,7 @@
     "Excalidraw/Drawing 2026-07-16 18.03.33.excalidraw.md",
     "Excalidraw",
     "control system I",
-    "现代数字信号处理1",
+    "Modern Digital Signal Processing1",
     "dsp",
     "discrete mathematics"
   ]
