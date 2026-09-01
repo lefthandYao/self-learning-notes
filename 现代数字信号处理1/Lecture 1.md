@@ -12,4 +12,7 @@ textbook：
 理念：
 	no reading, no learning
 	no writing, no reading
-	no data,
+	no data, no truth
+		数据都是上帝给的，模型是人造的（尽量不要做仿真）
+	no analytic, no understanding
+	no programming, no cognition 
