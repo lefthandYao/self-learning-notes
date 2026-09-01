@@ -65,4 +65,15 @@ Headers
 	![image.png](https://fastly.jsdelivr.net/gh/lefthandYao/my-image-bed@main/pc/20260901191419114.png)
 	everybody needs to agree on the format of the header
 
+Multi-Headers
+Analogy:
+	first wrapped by senders(multi-layers) then unwrapped by accepters
+	![image.png](https://fastly.jsdelivr.net/gh/lefthandYao/my-image-bed@main/pc/20260901192100061.png)
+	each person communicates with its peers at the same layer
+	a protocol at a specific layer only makes sense to people at that layer
+Internet:
+	![image.png](https://fastly.jsdelivr.net/gh/lefthandYao/my-image-bed@main/pc/20260901192410718.png)
+	![image.png](https://fastly.jsdelivr.net/gh/lefthandYao/my-image-bed@main/pc/20260901192538399.png)
 
+Routers
+Analogy:
