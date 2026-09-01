@@ -96,6 +96,7 @@ discrete random variables：
 	![image.png](https://fastly.jsdelivr.net/gh/lefthandYao/my-image-bed@main/pc/20260901160204238.png)
 	![image.png](https://fastly.jsdelivr.net/gh/lefthandYao/my-image-bed@main/pc/20260901160222969.png)
 	泊松分布：
+	可以把这个问题转换成二项分布，相当于在相同时间内打n次枪，n趋于无穷就是泊松
 	![image.png](https://fastly.jsdelivr.net/gh/lefthandYao/my-image-bed@main/pc/20260901160552428.png)
 	![image.png](https://fastly.jsdelivr.net/gh/lefthandYao/my-image-bed@main/pc/20260901160605205.png)
 
@@ -104,4 +105,12 @@ continue random variables：
 ![image.png](https://fastly.jsdelivr.net/gh/lefthandYao/my-image-bed@main/pc/20260901160127035.png)
 概率密度
 	![image.png](https://fastly.jsdelivr.net/gh/lefthandYao/my-image-bed@main/pc/20260901155337545.png)
+
+连续型概率分布
+	均匀分布（uniform）
+	![image.png](https://fastly.jsdelivr.net/gh/lefthandYao/my-image-bed@main/pc/20260901161818512.png)
+	指数分布
+		无记忆性：
+		![image.png](https://fastly.jsdelivr.net/gh/lefthandYao/my-image-bed@main/pc/20260901161913260.png)
+	![image.png](https://fastly.jsdelivr.net/gh/lefthandYao/my-image-bed@main/pc/20260901162020510.png)
 
