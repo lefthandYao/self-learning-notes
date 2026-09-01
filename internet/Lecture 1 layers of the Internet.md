@@ -27,4 +27,13 @@ Layers
 	local networks: connect everyone in local town
 		link between machines
 		machines exchange packets
-	
+	connecting local networks
+		set post office
+		![image.png|210](https://fastly.jsdelivr.net/gh/lefthandYao/my-image-bed@main/pc/20260901184359979.png)
+
+Internet: Network of networks
+	![image.png](https://fastly.jsdelivr.net/gh/lefthandYao/my-image-bed@main/pc/20260901184520532.png)
+
+
+
+
