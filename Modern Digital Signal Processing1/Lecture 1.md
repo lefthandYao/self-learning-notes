@@ -29,3 +29,28 @@ scope：
 			Wiener
 			Kalman
 		Extension
+			SVM
+			Kernal
+			Regularization
+	Unit 2: Adaptive Processing
+		Adaptive Filter
+			optimization
+			random gradient descending
+		Typical
+			LMS
+			RLS
+		Extension
+			Deep Learning
+	Unit 3: Spectral Processing 
+		recognize power spectral of the signal
+			direct(non-parametric)
+			filter banks
+
+differences between mdsp1 and mdsp2
+	1: 1950's-1980's
+		linear
+		orthogonal
+		stationary
+		Gaussian
+	2: 1980's-Now
+		 
