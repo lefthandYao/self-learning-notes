@@ -124,3 +124,7 @@ continue random variables：
 ![image.png|166](https://fastly.jsdelivr.net/gh/lefthandYao/my-image-bed@main/pc/20260901162524213.png)
 	线性性（两变量间无需独立）
 	![image.png|187](https://fastly.jsdelivr.net/gh/lefthandYao/my-image-bed@main/pc/20260901162752379.png)
+
+
+在均方差的角度来评估，期望是对随机变量的最优估计
+	这意味着，传统机器学习中，如果用MSE作为损失函数。预测模型的输出结果只能输出期望而非分布（但这已经足够）
