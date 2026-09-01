@@ -71,10 +71,28 @@ Review of Probability Theory
 		概率是从模型到决策
 		统计是从数据到模型
 		大数据是从数据直接到决策
+		![image.png](https://fastly.jsdelivr.net/gh/lefthandYao/my-image-bed@main/pc/20260901155131821.png)
+
 
 样本空间很重要（随机到底怎么随机）Bertrand Paradox
 
 随机变量的概念
-	随机变量是一个函数：从样本空间到实数轴
-		目的是量化样本空间
-	随机变量没有不确定性，所有不确定性都只ting'l
+![image.png](https://fastly.jsdelivr.net/gh/lefthandYao/my-image-bed@main/pc/20260901155147441.png)
+
+随机变量是一个函数：从样本空间到实数轴
+	目的是量化样本空间
+随机变量没有不确定性，所有不确定性都只停留在样本点出现与否
+
+discrete random variables：
+	![image.png](https://fastly.jsdelivr.net/gh/lefthandYao/my-image-bed@main/pc/20260901155316209.png)
+	随机变量满足...分布，以下zh
+	伯努利分布：
+	![image.png](https://fastly.jsdelivr.net/gh/lefthandYao/my-image-bed@main/pc/20260901155719272.png)
+	![image.png](https://fastly.jsdelivr.net/gh/lefthandYao/my-image-bed@main/pc/20260901155641885.png)
+	二项分布：
+	
+
+continue random variables：
+概率密度
+	![image.png](https://fastly.jsdelivr.net/gh/lefthandYao/my-image-bed@main/pc/20260901155337545.png)
+
