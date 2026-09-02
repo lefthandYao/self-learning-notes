@@ -41,7 +41,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "deep learning/1.2 深度学习简介.md",
+                "file": "deep learning/快速入门深度学习/1.2 深度学习简介.md",
                 "mode": "source",
                 "source": false
               },
@@ -240,8 +240,9 @@
   },
   "active": "71dfab06f17f0ff5",
   "lastOpenFiles": [
+    "deep learning/快速入门深度学习",
     "internet/Lecture 1 layers of the Internet.md",
-    "deep learning/1.2 深度学习简介.md",
+    "deep learning/快速入门深度学习/1.2 深度学习简介.md",
     "deep learning",
     "control system I/lecture 1 introduction, signal and system.md",
     "control system I/lecture 2 modeling.md",
