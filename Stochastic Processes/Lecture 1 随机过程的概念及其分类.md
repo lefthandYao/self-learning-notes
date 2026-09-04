@@ -22,4 +22,5 @@ Linear Corelation
 		Joint Distribution 
 			如果固定住一个随机变量，另一个的分布不变->independence
 			![image.png](https://fastly.jsdelivr.net/gh/lefthandYao/my-image-bed@main/pc/20260904092439924.png)
-
+			圆：y的均值随xde
+			![image.png](https://fastly.jsdelivr.net/gh/lefthandYao/my-image-bed@main/pc/20260904102810293.png)
