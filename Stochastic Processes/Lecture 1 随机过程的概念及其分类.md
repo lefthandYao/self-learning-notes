@@ -20,4 +20,6 @@ ref：
 Linear Corelation
 	Binary Relation
 		Joint Distribution 
-		
+			如果固定住一个随机变量，另一个的分布不变->independence
+			![image.png](https://fastly.jsdelivr.net/gh/lefthandYao/my-image-bed@main/pc/20260904092439924.png)
+
