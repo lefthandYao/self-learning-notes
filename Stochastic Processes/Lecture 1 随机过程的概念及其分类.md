@@ -19,8 +19,12 @@ ref：
 
 Linear Corelation
 	Binary Relation
-		Joint Distribution 
-			如果固定住一个随机变量，另一个的分布不变->independence
+		Joint Distribution （定性理解）
+			不相关：y的均值不随x变化
+			独立：y的分布也不能随x变化
+			如果固定住一个随机变量，另一个的分布不变->独立
 			![image.png](https://fastly.jsdelivr.net/gh/lefthandYao/my-image-bed@main/pc/20260904092439924.png)
-			圆：y的均值随xde
+			圆：y的均值随x不变，不相关
+			纺锤：宽度减小，相关度增大
 			![image.png](https://fastly.jsdelivr.net/gh/lefthandYao/my-image-bed@main/pc/20260904102810293.png)
+		计算
