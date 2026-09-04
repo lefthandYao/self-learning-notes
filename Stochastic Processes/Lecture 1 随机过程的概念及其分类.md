@@ -15,4 +15,9 @@
 textbook:
 	随机过程及其应用习题解答 (陆大䋮, 张颢) 
 ref：
-	概率、随机变量与随机过程 （Probability, Random Variables and Stochastic Processes） (美）帕普里斯， 
+	概率、随机变量与随机过程 （Probability, Random Variables and Stochastic Processes） (美）帕普里斯
+
+Linear Corelation
+	Binary Relation
+		Joint Distribution 
+		
