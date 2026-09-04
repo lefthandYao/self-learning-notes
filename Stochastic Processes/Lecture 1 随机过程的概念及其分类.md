@@ -37,4 +37,6 @@ Linear Corelation
 			![image.png](https://fastly.jsdelivr.net/gh/lefthandYao/my-image-bed@main/pc/20260904105605718.png)
 			正定性：
 			![image.png](https://fastly.jsdelivr.net/gh/lefthandYao/my-image-bed@main/pc/20260904105638006.png)
-		E(XY) = 0 -> 正交 （不相关）
+		E(XY) = 0 -> 正交 
+		E(XY) = EX·EY -> 不相关
+		如果正交的X和Y分别加一个EX，EY的偏置，二者等价，所以至少有一个均值为0的时候，二者等价
