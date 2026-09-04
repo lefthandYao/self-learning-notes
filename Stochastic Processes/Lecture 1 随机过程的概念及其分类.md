@@ -30,7 +30,7 @@ Linear Corelation
 		均方距离Y~kx
 		![image.png](https://fastly.jsdelivr.net/gh/lefthandYao/my-image-bed@main/pc/20260904104813108.png)
 		探究随机变量之间的关联（关注交叉项）
-		交叉项E(XY)满足内积的三条核心公理：
+		交叉项E(XY)满足内积的三条核心公理：-> E(XY)就叫做x和y的相关（互矩）
 			对称性：
 			![image.png|148](https://fastly.jsdelivr.net/gh/lefthandYao/my-image-bed@main/pc/20260904105549649.png)
 			线性：
@@ -43,6 +43,14 @@ Linear Corelation
 
 随机过程：
 	随机过程就是一个随机函数，接受一个时间，得到一个随机变量
-	![image.png](https://fastly.jsdelivr.net/gh/lefthandYao/my-image-bed@main/pc/20260904111754118.png)
-	有样本空间和时间两个自变量
-	特定t下的ω是样本轨道
+		![image.png](https://fastly.jsdelivr.net/gh/lefthandYao/my-image-bed@main/pc/20260904111754118.png)
+		有样本空间和时间两个自变量
+		特定t下的ω是样本轨道
+	相关函数：
+		对称:
+		![image.png|240](https://fastly.jsdelivr.net/gh/lefthandYao/my-image-bed@main/pc/20260904112331358.png)
+		非负:
+		![image.png|245](https://fastly.jsdelivr.net/gh/lefthandYao/my-image-bed@main/pc/20260904112416061.png)
+		柯西不等式:
+		![image.png|246](https://fastly.jsdelivr.net/gh/lefthandYao/my-image-bed@main/pc/20260904112456161.png)
+
