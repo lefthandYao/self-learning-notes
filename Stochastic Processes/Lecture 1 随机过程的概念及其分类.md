@@ -40,3 +40,9 @@ Linear Corelation
 		E(XY) = 0 -> 正交 
 		E(XY) = EX·EY -> 不相关
 		如果正交的X和Y分别加一个EX，EY的偏置，二者等价，所以至少有一个均值为0的时候，二者等价
+
+随机过程：
+	随机过程就是一个随机函数，接受一个时间，得到一个随机变量
+	![image.png](https://fastly.jsdelivr.net/gh/lefthandYao/my-image-bed@main/pc/20260904111754118.png)
+	有样本空间和时间两个自变量
+	特定t下的ω是样本轨道
