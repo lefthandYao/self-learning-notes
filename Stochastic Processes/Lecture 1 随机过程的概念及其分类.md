@@ -27,4 +27,7 @@ Linear Corelation
 			圆：y的均值随x不变，不相关
 			纺锤：宽度减小，相关度增大
 			![image.png](https://fastly.jsdelivr.net/gh/lefthandYao/my-image-bed@main/pc/20260904102810293.png)
-		计算
+		计算相关性：
+			均方距离Y~kx
+			![image.png](https://fastly.jsdelivr.net/gh/lefthandYao/my-image-bed@main/pc/20260904104813108.png)
+			
