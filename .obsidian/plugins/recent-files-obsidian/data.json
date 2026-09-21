@@ -9,6 +9,10 @@
       "path": "control system I/lecture 4 Diagonalization, Model Analysis, Intro to Feedback.md"
     },
     {
+      "basename": "lecture 2 modeling",
+      "path": "control system I/lecture 2 modeling.md"
+    },
+    {
       "basename": "Lecture 1",
       "path": "Modern Digital Signal Processing1/Lecture 1.md"
     },
@@ -47,10 +51,6 @@
     {
       "basename": "lecture 1 introduction, signal and system",
       "path": "control system I/lecture 1 introduction, signal and system.md"
-    },
-    {
-      "basename": "lecture 2 modeling",
-      "path": "control system I/lecture 2 modeling.md"
     },
     {
       "basename": "003. 二进制和位运算",
