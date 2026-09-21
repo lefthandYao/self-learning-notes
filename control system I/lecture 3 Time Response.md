@@ -23,6 +23,7 @@ system example
 state transition function、
 x(t)是initial response：
 ![image.png|435](https://fastly.jsdelivr.net/gh/lefthandYao/my-image-bed@main/pc/20260831091505856.png)
+x0是t=0时候x的值
 forced response是u(t)和状态转移函数做卷积
 ![image.png|489](https://fastly.jsdelivr.net/gh/lefthandYao/my-image-bed@main/pc/20260831091733429.png)
 相当于信号与系统里面学过的h(t)impulse response
