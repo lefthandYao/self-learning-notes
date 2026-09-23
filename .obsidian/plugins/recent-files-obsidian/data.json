@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Lecture 1 随机过程的概念及其分类",
+      "path": "Stochastic Processes/Lecture 1 随机过程的概念及其分类.md"
+    },
+    {
+      "basename": "Lecture 0 概率统计基础",
+      "path": "Stochastic Processes/Lecture 0 概率统计基础.md"
+    },
+    {
       "basename": "Lecture 1 layers of the Internet",
       "path": "internet/Lecture 1 layers of the Internet.md"
     },
@@ -27,14 +35,6 @@
     {
       "basename": "lecture 2 modeling",
       "path": "control system I/lecture 2 modeling.md"
-    },
-    {
-      "basename": "Lecture 0 概率统计基础",
-      "path": "Stochastic Processes/Lecture 0 概率统计基础.md"
-    },
-    {
-      "basename": "Lecture 1 随机过程的概念及其分类",
-      "path": "Stochastic Processes/Lecture 1 随机过程的概念及其分类.md"
     },
     {
       "basename": "Lab1",
